@@ -6,7 +6,13 @@ This repository is a collection of certificates, projects, labs, and other resou
 
 The following is a list of Coursera courses that have resources included in this repository:
 
-1. --
+1. AI Foundation for Everyone
+    - Building AI Powered Chatbots Without Programming
+    - Getting Started with AI using IBM Watson
+    - Introduction to Artificial Intelligence (AI)
+2. IBM AI Engineering
+    - Introduction to Deep Learning & Neural Networks with Keras
+    - Machine Learning with Python
 
 ## Content
 
