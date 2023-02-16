@@ -16,6 +16,7 @@ The following is a list of Coursera courses that have resources included in this
     3. Introduction to Computer Vision and Image Processing
 3. Google Data Analytics
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
+    
 ## Content
 
 The repository is organized by course, with each course having its own folder that contains the relevant resources. The following is an example of the type of content that can be found in each folder:
