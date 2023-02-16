@@ -12,8 +12,10 @@ The following is a list of Coursera courses that have resources included in this
     3. [Building AI Powered Chatbots Without Programming](./AI%20Foundations%20for%20Everyone/Building%20AI%20Powered%20Chatbots%20Without%20Programming/Coursera%20XQQW7N4VDJY3.pdf)
 2. IBM AI Engineering
     1. [Machine Learning with Python](./IBM%20AI%20Engineering/Machine%20Learning%20with%20Python/Coursera%20LVU5SHFM7WC7.pdf)
-    2. Introduction to Deep Learning & Neural Networks with Keras
-
+    2. [Introduction to Deep Learning & Neural Networks with Keras](./IBM%20AI%20Engineering/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/Coursera%20VQ9F3673GUVB.pdf)
+    3. Introduction to Computer Vision and Image Processing
+3. Google Data Analytics
+    1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
 ## Content
 
 The repository is organized by course, with each course having its own folder that contains the relevant resources. The following is an example of the type of content that can be found in each folder:
