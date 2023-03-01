@@ -19,6 +19,7 @@ The following is a list of Coursera courses that have resources included in this
         - Project - [Stop Sign image detection](./IBM%20AI%20Engineering/Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/PROJECT-Train-classification-cnn-pytorch.ipynb)
 3. Google Data Analytics
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
+    2. [Ask Questions to Make Data-Driven Decisions](./Google%20Data%20Analytics/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Coursera%20QRAQKJPDUDAP.pdf)
     
 ## Content
 
