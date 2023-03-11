@@ -23,7 +23,11 @@ The following is a list of Coursera courses that have resources included in this
 3. Google Data Analytics
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
     2. [Ask Questions to Make Data-Driven Decisions](./Google%20Data%20Analytics/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Coursera%20QRAQKJPDUDAP.pdf)
-    3.[Prepare Data for Exploration](./Google%20Data%20Analytics/Prepare%20Data%20for%20Exploration/Coursera%20HTT484295X52.pdf)
+    3. [Prepare Data for Exploration](./Google%20Data%20Analytics/Prepare%20Data%20for%20Exploration/Coursera%20HTT484295X52.pdf)
+
+4. Improve Your English Communication Skills
+    1. [Speak English Professionally](./Improve%20Your%20English%20Communication%20Skills/Speak%20English%20Professionally/Coursera%20ZQRWS8L8Q6DC.pdf)
+    2. [Write Professional Emails in English](./Improve%20Your%20English%20Communication%20Skills/Write%20Professional%20Emails%20in%20English/Coursera%20SJ7LLUXJWKA9.pdf)
     
 ## Content
 
