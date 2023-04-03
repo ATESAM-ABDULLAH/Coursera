@@ -28,6 +28,7 @@ The following is a list of Coursera courses that have resources included in this
 4. Improve Your English Communication Skills
     1. [Speak English Professionally](./Improve%20Your%20English%20Communication%20Skills/Speak%20English%20Professionally/Coursera%20ZQRWS8L8Q6DC.pdf)
     2. [Write Professional Emails in English](./Improve%20Your%20English%20Communication%20Skills/Write%20Professional%20Emails%20in%20English/Coursera%20SJ7LLUXJWKA9.pdf)
+    3. [Build Your Professional ePortfolio in English](./Improve%20Your%20English%20Communication%20Skills/Build%20Your%20Professional%20ePortfolio%20in%20English/Coursera%20EBEWZYTGMWKF.pdf)
     
 ## Content
 
