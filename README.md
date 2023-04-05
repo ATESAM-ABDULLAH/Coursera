@@ -19,6 +19,7 @@ The following is a list of Coursera courses that have resources included in this
     3. [Introduction to Computer Vision and Image Processing](./IBM%20AI%20Engineering/Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Coursera%20UX5RLEQW2VHU.pdf)
         - Project - [Stop Sign image detection](./IBM%20AI%20Engineering/Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/PROJECT-Train-classification-cnn-pytorch.ipynb)
     4. [Deep Neural Networks with PyTorch]()
+        - Project - [MNIST fashion](./IBM%20AI%20Engineering/Deep%20Neural%20Networks%20with%20PyTorch/MNIST_fashion.ipynb)
 
 3. Google Data Analytics
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
