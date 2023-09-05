@@ -25,6 +25,7 @@ The following is a list of Coursera courses that have resources included in this
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
     2. [Ask Questions to Make Data-Driven Decisions](./Google%20Data%20Analytics/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Coursera%20QRAQKJPDUDAP.pdf)
     3. [Prepare Data for Exploration](./Google%20Data%20Analytics/Prepare%20Data%20for%20Exploration/Coursera%20HTT484295X52.pdf)
+    4. [Process Data from Dirty to Clean](./Google%20Data%20Analytics/Process%20Data%20from%20Dirty%20to%20Clean/Coursera%20UBNZHAM6VE7E.pdf)
 
 4. Improve Your English Communication Skills
     1. [Speak English Professionally](./Improve%20Your%20English%20Communication%20Skills/Speak%20English%20Professionally/Coursera%20ZQRWS8L8Q6DC.pdf)
