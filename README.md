@@ -18,9 +18,9 @@ The following is a list of Coursera courses that have resources included in this
         - Project - [Concrete Strength Prediction Model](./IBM%20AI%20Engineering/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/PROJECT-Building_a%20_Deep_Learning_Model.ipynb)
     3. [Introduction to Computer Vision and Image Processing](./IBM%20AI%20Engineering/Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/Coursera%20UX5RLEQW2VHU.pdf)
         - Project - [Stop Sign image detection](./IBM%20AI%20Engineering/Introduction%20to%20Computer%20Vision%20and%20Image%20Processing/PROJECT-Train-classification-cnn-pytorch.ipynb)
-    4. [Deep Neural Networks with PyTorch]()
+    4. [Deep Neural Networks with PyTorch](./IBM%20AI%20Engineering/Deep%20Neural%20Networks%20with%20PyTorch/Coursera%202DN36284WM34.pdf)
         - Project - [MNIST fashion](./IBM%20AI%20Engineering/Deep%20Neural%20Networks%20with%20PyTorch/MNIST_fashion.ipynb)
-    5. [Building Deep Learning Models with TensorFlow]
+    5. [Building Deep Learning Models with TensorFlow](./IBM%20AI%20Engineering/Building%20Deep%20Learning%20Models%20with%20TensorFlow/Coursera%20N55HZPMABGLT.pdf)
 
 3. Google Data Analytics
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
