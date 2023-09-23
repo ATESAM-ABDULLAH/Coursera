@@ -11,7 +11,7 @@ The following is a list of Coursera courses that have resources included in this
     2. [Getting Started with AI using IBM Watson](./AI%20Foundations%20for%20Everyone/Getting%20Started%20with%20AI%20using%20IBM%20Watson/Coursera%20CUCUVKMTXR72.pdf)
     3. [Building AI Powered Chatbots Without Programming](./AI%20Foundations%20for%20Everyone/Building%20AI%20Powered%20Chatbots%20Without%20Programming/Coursera%20XQQW7N4VDJY3.pdf)
     
-2. IBM AI Engineering
+2. [IBM AI Engineering](./IBM%20AI%20Engineering/Coursera%2093AKCSRCACQE.pdf)
     1. [Machine Learning with Python](./IBM%20AI%20Engineering/Machine%20Learning%20with%20Python/Coursera%20LVU5SHFM7WC7.pdf)
         - Project - [Rain Prediction Model](./IBM%20AI%20Engineering/Machine%20Learning%20with%20Python/PROJECT-Rain_Prediction.ipynb)
     2. [Introduction to Deep Learning & Neural Networks with Keras](./IBM%20AI%20Engineering/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/Coursera%20VQ9F3673GUVB.pdf)
@@ -21,6 +21,8 @@ The following is a list of Coursera courses that have resources included in this
     4. [Deep Neural Networks with PyTorch](./IBM%20AI%20Engineering/Deep%20Neural%20Networks%20with%20PyTorch/Coursera%202DN36284WM34.pdf)
         - Project - [MNIST fashion](./IBM%20AI%20Engineering/Deep%20Neural%20Networks%20with%20PyTorch/MNIST_fashion.ipynb)
     5. [Building Deep Learning Models with TensorFlow](./IBM%20AI%20Engineering/Building%20Deep%20Learning%20Models%20with%20TensorFlow/Coursera%20N55HZPMABGLT.pdf)
+    6. [AI Capstone Project with Deep Learning](./IBM%20AI%20Engineering/AI%20Capstone%20Project%20with%20Deep%20Learning/Coursera%20MY84A7CML9D9.pdf)
+        - Project - [Concrete Crack Detection](./IBM%20AI%20Engineering/AI%20Capstone%20Project%20with%20Deep%20Learning/PROJECT-Resnet18.ipynb)
 
 3. Google Data Analytics
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
