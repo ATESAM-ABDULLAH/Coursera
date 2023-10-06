@@ -38,6 +38,11 @@ The following is a list of Coursera courses that have resources included in this
     3. [Build Your Professional ePortfolio in English](./Improve%20Your%20English%20Communication%20Skills/Build%20Your%20Professional%20ePortfolio%20in%20English/Coursera%20EBEWZYTGMWKF.pdf)
     4. [Take Your English Communication Skills to the Next Level](./Improve%20Your%20English%20Communication%20Skills/Take%20Your%20English%20Communication%20Skills%20to%20the%20Next%20Level/Coursera%20AKXB6NZCLNVV.pdf)
     
+5.  Intro to Operating Systems
+    1. Virtualization
+
+6.  Machine Learning Engineering for Production (MLOps)
+    1. Intro to MLOps
     
 ## Content
 
