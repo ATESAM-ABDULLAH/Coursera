@@ -31,6 +31,7 @@ The following is a list of Coursera courses that have resources included in this
     4. [Process Data from Dirty to Clean](./Google%20Data%20Analytics/Process%20Data%20from%20Dirty%20to%20Clean/Coursera%20UBNZHAM6VE7E.pdf)
     5. [Analyze Data to Answer Questions](./Google%20Data%20Analytics/Analyze%20Data%20to%20Answer%20Questions/Coursera%20ZECTSSJFUGYR.pdf)
     6. [Share Data Through the Art of Visualization](./Google%20Data%20Analytics/Share%20Data%20Through%20the%20Art%20of%20Visualization/Coursera%20E884FRSSA4BK.pdf)
+    7. [Data Analysis with R Programming](./Google%20Data%20Analytics/Data%20Analysis%20with%20R%20Programming/Coursera%20XR2VNK7EVDUL.pdf)
 
 4. [Improve Your English Communication Skills](./Improve%20Your%20English%20Communication%20Skills/Coursera%209S9TSXNGYQ7Z.pdf)
     1. [Speak English Professionally](./Improve%20Your%20English%20Communication%20Skills/Speak%20English%20Professionally/Coursera%20ZQRWS8L8Q6DC.pdf)
