@@ -43,7 +43,7 @@ The following is a list of Coursera courses that have resources included in this
     1. Virtualization
 
 6.  Machine Learning Engineering for Production (MLOps)
-    1. Intro to MLOps
+    1. [Introduction to MLOps](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Introduction%20to%20Machine%20Learning%20in%20Production/Coursera%20AMXCRWR98KXV.pdf)
     
 ## Content
 
