@@ -77,53 +77,65 @@ int main()
         enqueue(&queues[0], processes[i]); // Enqueue in the high-priority queue initially
     }
 
-    for (int i = 0; i < numProcesses; i++)
+    int time = 0;
+
+    for (int j = 0; j < 3; j++)
     {
-        for (int j = 0; j < 3; j++)
+        // Inside the while loop where processes are being executed
+        while (queues[j].front != -1)
         {
-            while (queues[j].front != -1)
+            struct Process runningProcess = dequeue(&queues[j]);
+
+            printf("Process %d is running in %s priority queue\n", runningProcess.processID, (j == 0) ? "high" : (j == 1) ? "medium"
+                                                                                                                          : "low");
+
+            int timeElapsed = (runningProcess.remainingTime > queues[j].timeQuantum) ? queues[j].timeQuantum : runningProcess.remainingTime;
+            runningProcess.remainingTime -= timeElapsed;
+
+            if (runningProcess.waitingTime == -1)
+                runningProcess.waitingTime = time;
+
+            // printf("time: %ds, run: %ds, rem: %ds\n", time, timeElapsed, runningProcess.remainingTime);
+
+            time += timeElapsed;
+
+            // Update waiting and turnaround times
+            for (int k = 0; k < numProcesses; k++)
             {
-                struct Process runningProcess = dequeue(&queues[j]);
-                // printf("%d", runningProcess.remainingTime);
-                printf("Process %d is running in %s priority queue\n", runningProcess.processID, (j == 0) ? "high" : (j == 1) ? "medium"
-                                                                                                                              : "low");
-
-                int timeElapsed = (runningProcess.remainingTime > queues[j].timeQuantum) ? queues[j].timeQuantum : runningProcess.remainingTime;
-
-                runningProcess.remainingTime -= timeElapsed;
-
-                if (runningProcess.remainingTime <= 0)
+                if (processes[k].processID == runningProcess.processID)
                 {
-                    runningProcess.turnaroundTime += (runningProcess.duration - runningProcess.remainingTime); // Update based on actual duration
-                    printf("Process %d finished execution\n", runningProcess.processID);
+                    processes[k].remainingTime = runningProcess.remainingTime;
+
+                    if (runningProcess.remainingTime <= 0)
+                    {
+                        processes[k].turnaroundTime = time;
+                        processes[k].waitingTime = time - processes[k].duration;
+                    }
+                    break;
                 }
-                else
+            }
+
+            if (runningProcess.remainingTime <= 0)
+            {
+                printf("Process %d finished execution\n", runningProcess.processID);
+            }
+            else
+            {
+                if (j == 2) // stop decreasing priority after lowest
                 {
-                    runningProcess.waitingTime += timeElapsed;
-                    enqueue(&queues[j + 1], runningProcess);
+                    enqueue(&queues[j], runningProcess);
+                    continue;
                 }
+                enqueue(&queues[j + 1], runningProcess);
             }
         }
     }
 
-    printf("Process Duration\tWaiting Time\tTurnaround Time\n");
+    printf("Process\tDuration\tWaiting Time\tTurnaround Time\n");
     for (int i = 0; i < numProcesses; i++)
     {
         printf("%d\t%d\t\t%d\t\t%d\n", processes[i].processID, processes[i].duration, processes[i].waitingTime, processes[i].turnaroundTime);
     }
-
-    float totalWaitingTime = 0, totalTurnaroundTime = 0;
-    for (int i = 0; i < numProcesses; i++)
-    {
-        totalWaitingTime += processes[i].waitingTime;
-        totalTurnaroundTime += processes[i].turnaroundTime;
-    }
-
-    float avgWaitingTime = totalWaitingTime / numProcesses;
-    float avgTurnaroundTime = totalTurnaroundTime / numProcesses;
-
-    printf("Average Waiting Time: %.2f\n", avgWaitingTime);
-    printf("Average Turnaround Time: %.2f\n", avgTurnaroundTime);
 
     return 0;
 }
