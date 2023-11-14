@@ -24,7 +24,7 @@ The following is a list of Coursera courses that have resources included in this
     6. [AI Capstone Project with Deep Learning](./IBM%20AI%20Engineering/AI%20Capstone%20Project%20with%20Deep%20Learning/Coursera%20MY84A7CML9D9.pdf)
         - Project - [Concrete Crack Detection](./IBM%20AI%20Engineering/AI%20Capstone%20Project%20with%20Deep%20Learning/PROJECT-Resnet18.ipynb)
 
-3. Google Data Analytics
+3. [Google Data Analytics](./Google%20Data%20Analytics/Coursera%20U3JHHL927SJX.pdf)
     1. [Foundations: Data, Data, Everywhere](./Google%20Data%20Analytics/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera%20ZXMU23C52KWJ.pdf)
     2. [Ask Questions to Make Data-Driven Decisions](./Google%20Data%20Analytics/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Coursera%20QRAQKJPDUDAP.pdf)
     3. [Prepare Data for Exploration](./Google%20Data%20Analytics/Prepare%20Data%20for%20Exploration/Coursera%20HTT484295X52.pdf)
@@ -32,6 +32,9 @@ The following is a list of Coursera courses that have resources included in this
     5. [Analyze Data to Answer Questions](./Google%20Data%20Analytics/Analyze%20Data%20to%20Answer%20Questions/Coursera%20ZECTSSJFUGYR.pdf)
     6. [Share Data Through the Art of Visualization](./Google%20Data%20Analytics/Share%20Data%20Through%20the%20Art%20of%20Visualization/Coursera%20E884FRSSA4BK.pdf)
     7. [Data Analysis with R Programming](./Google%20Data%20Analytics/Data%20Analysis%20with%20R%20Programming/Coursera%20XR2VNK7EVDUL.pdf)
+    8. Capstones
+        - [Bike Sharing Company Case Study:](./Google%20Data%20Analytics/Capstone/Case%20Study%201/CS-1-Bike-sharing.pdf) Identifying patterns in usage, predicting demand, and optimizing resource allocation.
+        - [Wellness Company Case Study:](./Google%20Data%20Analytics/Capstone/Case%20Study%202/CS-2-Wellness-company.pdf) Analyzing health and wellness data to identify risk factors, assess interventions, and develop targeted marketing campaigns.
 
 4. [Improve Your English Communication Skills](./Improve%20Your%20English%20Communication%20Skills/Coursera%209S9TSXNGYQ7Z.pdf)
     1. [Speak English Professionally](./Improve%20Your%20English%20Communication%20Skills/Speak%20English%20Professionally/Coursera%20ZQRWS8L8Q6DC.pdf)
@@ -40,7 +43,7 @@ The following is a list of Coursera courses that have resources included in this
     4. [Take Your English Communication Skills to the Next Level](./Improve%20Your%20English%20Communication%20Skills/Take%20Your%20English%20Communication%20Skills%20to%20the%20Next%20Level/Coursera%20AKXB6NZCLNVV.pdf)
     
 5.  Intro to Operating Systems
-    1. Virtualization
+    1. [Virtualization](./Intro%20to%20Operating%20Systems/Virtualization/Coursera%204PQJSQ3ZA3YU.pdf)
 
 6.  Machine Learning Engineering for Production (MLOps)
     1. [Introduction to MLOps](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Introduction%20to%20Machine%20Learning%20in%20Production/Coursera%20AMXCRWR98KXV.pdf)
