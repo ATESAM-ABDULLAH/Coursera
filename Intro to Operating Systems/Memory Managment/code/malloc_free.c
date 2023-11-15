@@ -3,43 +3,50 @@
 
 #define MEMORY_SIZE 20000 // Size of memory in bytes
 
+typedef struct block
+{
+    size_t size;        // Size of the block
+    int free;           // Flag indicating if the block is free (1) or allocated (0)
+    struct block *next; // Pointer to the next block in the memory
+} metadata;
 
-struct block{
- size_t size;
- int free;
- struct block *next; 
-};
+char memory[MEMORY_SIZE];                // Array representing the memory space
+metadata *freeList = (metadata *)memory; // Starting point of the memory (free list)
 
-char memory[MEMORY_SIZE];
-struct block *freeList=(void*)memory;
-
+// Initialize the free list
 void initialize()
 {
-    freeList->size = 20000 - sizeof(struct block);
+    freeList->size = MEMORY_SIZE - sizeof(metadata);
     freeList->free = 1;
     freeList->next = NULL;
 }
 
-void split(struct block *fitting_slot, size_t size)
+// Split a block into two parts after allocating memory
+void split(metadata *fitting_slot, size_t size)
 {
-    struct block *new = (void *)((void *)fitting_slot + size + sizeof(struct block));
-    new->size = (fitting_slot->size) - size - sizeof(struct block);
+    // Creating a new block to utilize the remaining memory after allocation
+    metadata *new = (metadata *)((void *)fitting_slot + size + sizeof(metadata));
+    new->size = (fitting_slot->size) - size - sizeof(metadata);
     new->free = 1;
     new->next = fitting_slot->next;
+
+    // Adjusting the original block after splitting
     fitting_slot->size = size;
     fitting_slot->free = 0;
     fitting_slot->next = new;
 }
 
+// Merge consecutive free blocks in memory
 void merge()
 {
-    struct block *curr, *prev;
+    metadata *curr, *prev;
     curr = freeList;
     while ((curr->next) != NULL)
     {
         if ((curr->free) && (curr->next->free))
         {
-            curr->size += (curr->next->size) + sizeof(struct block);
+            // Merge current and next block when both are free
+            curr->size += (curr->next->size) + sizeof(metadata);
             curr->next = curr->next->next;
         }
         prev = curr;
@@ -47,33 +54,37 @@ void merge()
     }
 }
 
+// Memory allocation function
 void *MyMalloc(size_t noOfBytes)
 {
-    struct block *curr, *prev;
+    metadata *curr, *prev;
     void *result;
 
-    // add your code below this line
-
+    // If memory is not initialized, set up the free list
     if (!(freeList->size))
     {
         initialize();
         printf("Memory initialized\n");
     }
+
     curr = freeList;
+    // Traverse the free list to find a suitable block for allocation
     while ((((curr->size) < noOfBytes) || ((curr->free) == 0)) && (curr->next != NULL))
     {
         prev = curr;
         curr = curr->next;
         printf("One block checked\n");
     }
+
+    // Allocate memory in the fitting block or split it if large enough
     if ((curr->size) == noOfBytes)
     {
         curr->free = 0;
         result = (void *)(++curr);
         printf("Exact fitting block allocated\n");
-        return result;  
+        return result;
     }
-    else if ((curr->size) > (noOfBytes + sizeof(struct block)))
+    else if ((curr->size) > (noOfBytes + sizeof(metadata)))
     {
         split(curr, noOfBytes);
         result = (void *)(++curr);
@@ -86,30 +97,30 @@ void *MyMalloc(size_t noOfBytes)
         printf("Sorry. No sufficient memory to allocate\n");
         return result;
     }
-
-    // add your code above this line
 }
 
+// Memory deallocation function
 void MyFree(void *ptr)
 {
-
-    // add your code below this line
-    if (((void *)memory <= ptr) && (ptr <= (void *)(memory + 20000)))
+    // Check if the provided pointer is within the valid range of memory
+    if (((void *)memory <= ptr) && (ptr <= (void *)(memory + MEMORY_SIZE)))
     {
-        struct block *curr = ptr;
+        metadata *curr = ptr;
         --curr;
         curr->free = 1;
         merge();
         printf("Memory freed successfully\n");
     }
     else
+    {
         printf("Please provide a valid allocated pointer\n");
-    // add your code above this line
+    }
 }
 
+// Main function for testing memory allocation and deallocation
 int main()
 {
-
+    // Memory allocation and deallocation test cases
     int *p = (int *)MyMalloc(100 * sizeof(int));
     char *q = (char *)MyMalloc(250 * sizeof(char));
     int *r = (int *)MyMalloc(1000 * sizeof(int));
@@ -122,4 +133,5 @@ int main()
 
     int *k = (int *)MyMalloc(500 * sizeof(int));
     printf("Allocation and deallocation is done successfully! \n");
+    return 0;
 }
