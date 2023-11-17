@@ -33,8 +33,8 @@ The following is a list of Coursera courses that have resources included in this
     6. [Share Data Through the Art of Visualization](./Google%20Data%20Analytics/Share%20Data%20Through%20the%20Art%20of%20Visualization/Coursera%20E884FRSSA4BK.pdf)
     7. [Data Analysis with R Programming](./Google%20Data%20Analytics/Data%20Analysis%20with%20R%20Programming/Coursera%20XR2VNK7EVDUL.pdf)
     8. Capstones
-        - [Bike Sharing Company Case Study:](./Google%20Data%20Analytics/Capstone/Case%20Study%201/CS-1-Bike-sharing.pdf) Identifying patterns in usage, predicting demand, and optimizing resource allocation.
-        - [Wellness Company Case Study:](./Google%20Data%20Analytics/Capstone/Case%20Study%202/CS-2-Wellness-company.pdf) Analyzing health and wellness data to identify risk factors, assess interventions, and develop targeted marketing campaigns.
+        - [Bike Sharing Company Case Study:](./Google%20Data%20Analytics/Capstone/Case%20Study%201) Identifying patterns in usage, predicting demand, and optimizing resource allocation.
+        - [Wellness Company Case Study:](./Google%20Data%20Analytics/Capstone/Case%20Study%202) Analyzing health and wellness data to identify risk factors, assess interventions, and develop targeted marketing campaigns.
 
 4. [Improve Your English Communication Skills](./Improve%20Your%20English%20Communication%20Skills/Coursera%209S9TSXNGYQ7Z.pdf)
     1. [Speak English Professionally](./Improve%20Your%20English%20Communication%20Skills/Speak%20English%20Professionally/Coursera%20ZQRWS8L8Q6DC.pdf)
