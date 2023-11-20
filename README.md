@@ -47,6 +47,7 @@ The following is a list of Coursera courses that have resources included in this
 
 6.  Machine Learning Engineering for Production (MLOps)
     1. [Introduction to MLOps](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Introduction%20to%20Machine%20Learning%20in%20Production/Coursera%20AMXCRWR98KXV.pdf)
+    2. [Machine Learning Data Lifecycle in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Coursera%20KKBNJLHPAQSD.pdf)
     
 ## Content
 
