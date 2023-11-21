@@ -44,6 +44,7 @@ The following is a list of Coursera courses that have resources included in this
     
 5.  Intro to Operating Systems
     1. [Virtualization](./Intro%20to%20Operating%20Systems/Virtualization/Coursera%204PQJSQ3ZA3YU.pdf)
+    2. [Memory Management](./Intro%20to%20Operating%20Systems/Memory%20Management/Coursera%20D6YR3EPC3RQT.pdf)
 
 6.  Machine Learning Engineering for Production (MLOps)
     1. [Introduction to MLOps](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Introduction%20to%20Machine%20Learning%20in%20Production/Coursera%20AMXCRWR98KXV.pdf)
