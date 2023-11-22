@@ -2,7 +2,6 @@
 
 ## Import Packages
 
-
 ```python
 import pandas as pd  # Data manipulation
 import numpy as np  # Numerical computing
@@ -365,9 +364,6 @@ df['cluster'] = kmeans.fit_predict(cluster_data)
 customer_segments = df['cluster'].value_counts()
 customer_segments.index = ['Casual riders','Moderate riders','Long dist riders']
 ```
-
-    /home/atesam/.local/lib/python3.10/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
 
 
 
