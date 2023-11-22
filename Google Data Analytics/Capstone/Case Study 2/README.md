@@ -20,7 +20,7 @@ In this case study, I will meticulously follow the six steps of the data analysi
 # Prepare
 
 ## Data Source
-The data encompasses a freely accessible FitBit Fitness tracker dataset provided through **Mobius**. It comprises personal fitness tracker data from over thirty FitBit users who consented to share their data. Among the 18 csv files available, the pertinent datasets for my focus include daily activity, hourly calories, hourly steps, and sleep day data.
+The data encompasses a freely accessible FitBit Fitness tracker dataset provided through **Mobius**. It comprises personal fitness tracker data from over thirty FitBit users who consented to share their data. Among the 18 csv files available, the pertinent datasets for my focus include daily activity, hourly calories, hourly steps, and sleep day data. Data can be found at [Bellabeat-data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ## Sorting the Data
 Upon scrutinizing the chosen datasets in Google Sheets, I discerned that the data is meticulously organized in a comprehensive format. Notably, the **dailyActivity_merged** data contains **key metrics** such as the **total steps taken by Fitbit users, active minutes spent, and calories burned**. These metrics serve as a foundation to establish correlations between burned calories and step count. Furthermore, the **hourly calories** and **hourly steps** datasets offer insights into activity patterns across different hours of the day. 

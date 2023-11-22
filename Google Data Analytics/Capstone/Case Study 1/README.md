@@ -27,7 +27,7 @@ I am specifically tasked with addressing the first question: **How do annual mem
 
 
 ## Data Source
-The analysis leverages Cyclistic’s historical trip data, available for exploration. However, privacy constraints prohibit connecting pass purchases to individuals' information for location or multiple pass purchases.
+The analysis leverages Cyclistic’s historical trip data, available for exploration. However, privacy constraints prohibit connecting pass purchases to individuals' information for location or multiple pass purchases. Data can be found at [Trip-data](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 ### Data Organization
 The dataset contains ride details such as ride_id, rideable_type, start and end stations, coordinates, and member type. It's organized with columns indicating ride details and member types.
