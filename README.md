@@ -46,7 +46,7 @@ The following is a list of Coursera courses that have resources included in this
     1. [Virtualization](./Intro%20to%20Operating%20Systems/Virtualization/Coursera%204PQJSQ3ZA3YU.pdf)
     2. [Memory Management](./Intro%20to%20Operating%20Systems/Memory%20Management/Coursera%20D6YR3EPC3RQT.pdf)
     3. [Concurrency](./Intro%20to%20Operating%20Systems/Concurrency/Coursera%20QCT6B3TEGYBK.pdf)
-    4. [Persistence]
+    4. [Persistence](./Intro%20to%20Operating%20Systems/Persistence/Coursera%20K7CAV2EM8V4N.pdf)
 
 6.  Machine Learning Engineering for Production (MLOps)
     1. [Introduction to MLOps](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Introduction%20to%20Machine%20Learning%20in%20Production/Coursera%20AMXCRWR98KXV.pdf)
