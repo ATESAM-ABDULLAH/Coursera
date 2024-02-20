@@ -48,11 +48,11 @@ The following is a list of Coursera courses that have resources included in this
     3. [Concurrency](./Intro%20to%20Operating%20Systems/Concurrency/Coursera%20QCT6B3TEGYBK.pdf)
     4. [Persistence](./Intro%20to%20Operating%20Systems/Persistence/Coursera%20K7CAV2EM8V4N.pdf)
 
-6.  Machine Learning Engineering for Production (MLOps)
+6.  [Machine Learning Engineering for Production (MLOps)](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Coursera%20CX6ZXPLWCB7J.pdf)
     1. [Introduction to MLOps](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Introduction%20to%20Machine%20Learning%20in%20Production/Coursera%20AMXCRWR98KXV.pdf)
     2. [Machine Learning Data Lifecycle in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Coursera%20KKBNJLHPAQSD.pdf)
     3. [Machine Learning Modeling Pipelines in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Coursera%20GPW7PFFD596V.pdf)
-    4  [Deploying Machine Learning Models in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Coursera%20CX6ZXPLWCB7J.pdf)
+    4.  [Deploying Machine Learning Models in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Coursera%20CX6ZXPLWCB7J.pdf)
     
 ## Content
 
