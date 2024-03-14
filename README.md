@@ -53,7 +53,14 @@ The following is a list of Coursera courses that have resources included in this
     2. [Machine Learning Data Lifecycle in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Machine%20Learning%20Data%20Lifecycle%20in%20Production/Coursera%20KKBNJLHPAQSD.pdf)
     3. [Machine Learning Modeling Pipelines in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Coursera%20GPW7PFFD596V.pdf)
     4.  [Deploying Machine Learning Models in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Coursera%20CX6ZXPLWCB7J.pdf)
-    
+
+
+7. Google Advanced Data Analytics
+    1. [Foundations of Data Science](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Coursera%20MAUPKT6F3ZK9.pdf)
+        - [PACE plan](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/PACE%20plan.pdf)
+        - [Project proposal](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Project%20Proposal.pdf)
+
+
 ## Content
 
 The repository is organized by course, with each course having its own folder that contains the relevant resources. The following is an example of the type of content that can be found in each folder:
