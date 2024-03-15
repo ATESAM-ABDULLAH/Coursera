@@ -60,6 +60,8 @@ The following is a list of Coursera courses that have resources included in this
         - [PACE plan](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/PACE%20plan.pdf)
         - [Project proposal](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Project%20Proposal.pdf)
 
+8. Guided Projects
+    1. [Advanced Linux Commands](./Coursera%20Guided%20Projects/Coursera%20CDLFSXHAM4LZ.pdf)
 
 ## Content
 
