@@ -59,6 +59,8 @@ The following is a list of Coursera courses that have resources included in this
     1. [Foundations of Data Science](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Coursera%20MAUPKT6F3ZK9.pdf)
         - [PACE plan](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/PACE%20plan.pdf)
         - [Project proposal](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Project%20Proposal.pdf)
+    2. [Getting Started with Python](./Google%20Advanced%20Data%20Analytics/Get%20Started%20with%20Python/Coursera%20X6PJEH5C5WPV.pdf)
+        - [Data Exploration](./Google%20Advanced%20Data%20Analytics/Get%20Started%20with%20Python/Activity_Course%202%20TikTok%20project%20lab.ipynb)
 
 8. Guided Projects
     1. [Advanced Linux Commands](./Coursera%20Guided%20Projects/Coursera%20CDLFSXHAM4LZ.pdf)
