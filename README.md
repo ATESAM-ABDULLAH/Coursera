@@ -64,6 +64,8 @@ The following is a list of Coursera courses that have resources included in this
     3. [Go Beyond the Numbers: Translate Data into Insights](./Google%20Advanced%20Data%20Analytics/Go%20Beyond%20the%20Numbers:%20Translate%20Data%20into%20Insights/Coursera%20N2XVATS5DK2H.pdf)
         - [Project](./Google%20Advanced%20Data%20Analytics/Go%20Beyond%20the%20Numbers:%20Translate%20Data%20into%20Insights/TikTok%20project%20lab.ipynb)
         - [Executive Summary](./Google%20Advanced%20Data%20Analytics/Go%20Beyond%20the%20Numbers:%20Translate%20Data%20into%20Insights/TikTok-Course-3-executive-summary.pptx)
+    4. [The Power of Statistics](./Google%20Advanced%20Data%20Analytics/The%20Power%20of%20Statistics/Coursera%20MYSQJJSC6Y87.pdf)
+        - [Hypothesis Testing](./Google%20Advanced%20Data%20Analytics/The%20Power%20of%20Statistics/TikTok-lab.ipynb)
 
 8. Guided Projects
     1. [Advanced Linux Commands](./Coursera%20Guided%20Projects/Coursera%20CDLFSXHAM4LZ.pdf)
