@@ -55,7 +55,7 @@ The following is a list of Coursera courses that have resources included in this
     4.  [Deploying Machine Learning Models in Production](./Machine%20Learning%20Engineering%20for%20Production%20(MLOps)/Coursera%20CX6ZXPLWCB7J.pdf)
 
 
-7. Google Advanced Data Analytics
+7. [Google Advanced Data Analytics](./Google%20Advanced%20Data%20Analytics/Coursera%20I33GGV81IMXJ.pdf)
     1. [Foundations of Data Science](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Coursera%20MAUPKT6F3ZK9.pdf)
         - [PACE plan](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/PACE%20plan.pdf)
         - [Project proposal](./Google%20Advanced%20Data%20Analytics/Foundations%20of%20Data%20Science/Project%20Proposal.pdf)
@@ -67,6 +67,19 @@ The following is a list of Coursera courses that have resources included in this
         
     4. [The Power of Statistics](./Google%20Advanced%20Data%20Analytics/The%20Power%20of%20Statistics/Coursera%20MYSQJJSC6Y87.pdf)
         - [Hypothesis Testing](./Google%20Advanced%20Data%20Analytics/The%20Power%20of%20Statistics/TikTok-lab.ipynb)
+
+    5. [Regression Analysis: Simplify Complex Data Relationships](./Google%20Advanced%20Data%20Analytics/Regression%20Analysis:%20Simplify%20Complex%20Data%20Relationships/Coursera%20FYRI4H5SY6DD.pdf)
+        - [Regression Model](./Google%20Advanced%20Data%20Analytics/Regression%20Analysis:%20Simplify%20Complex%20Data%20Relationships/Course%205%20TikTok%20project%20lab.ipynb)
+
+    6. [The Nuts and Bolts of Machine Learning](./Google%20Advanced%20Data%20Analytics/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Coursera%20NSUSTG657554.pdf)
+        - [Random Forest Model](./Google%20Advanced%20Data%20Analytics/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Build%20a%20random%20forest%20model.ipynb)
+        - [XGBoost Model](./Google%20Advanced%20Data%20Analytics/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Build%20an%20XGBoost%20model.ipynb)
+        - [TikTokCase study](./Google%20Advanced%20Data%20Analytics/The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/TikTok%20project%20lab.ipynb)
+
+    7. [Capstone Project](./Google%20Advanced%20Data%20Analytics/Capstone%20Project/Coursera%20QH27YDVEKPBV.pdf)
+    Used `statsmodels` and `scikit-learn` to predict whether videos presented claims or opinions to improve triaging process of videos for human review.
+        - [Project Notebook](./Google%20Advanced%20Data%20Analytics/Capstone%20Project/Capstone%20-%20Salifort%20Motors%20project%20lab.ipynb)
+        - [Executive Summary](./Google%20Advanced%20Data%20Analytics/Capstone%20Project/Capstone-executive-summary.pptx)
 
 8. Guided Projects
     1. [Advanced Linux Commands](./Coursera%20Guided%20Projects/Coursera%20CDLFSXHAM4LZ.pdf)
